@@ -12,16 +12,7 @@ let answerOne
 
 // ---- //
 
-// Task 2
-const STR = null
-
-// Use conditional statements to set the answerTwo variable below to true
-// if the STR variable is 'Hello' or 'Goodbye'
-// Set answerTwo to false if it's neither of those
-// Run the test after setting STR to 'Hello', then 'Goodbye', then any other value you like
-// to verify your code is correct
-let answerTwo
-
+// Task 
 
 
 // ---- //
